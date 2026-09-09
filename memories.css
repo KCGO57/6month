@@ -1,0 +1,376 @@
+#memories{
+    display: none;
+    
+}
+
+#lacet{
+    position: fixed;
+    rotate: 90deg;
+    top: -730px;
+    left: 700px;
+    z-index: 999;
+}
+#lacel{
+    position: fixed;
+    top: -500px;
+    left: -50px;
+    z-index: 999;
+}
+
+#lacer{
+    position: fixed;
+    top: -500px;
+    right: -50px;
+    z-index: 999;
+}
+h1{
+    left: 0;
+    line-height: 200px;
+    margin-top: -400px;
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-size: 40px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: -1;
+}
+
+
+
+/*----------------------------------Memory One------------------------------------------*/
+#memOne{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    width: 700px;
+    height: 400px;
+    background-color: transparent;
+}
+#box1{
+    position: absolute;
+    top: 150px;
+    right:400px;
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+#kiss{
+    position: relative;
+    left: 50px;
+}
+#kiss2{
+    position:relative;
+    left: 250px;
+    bottom: 100px;
+    rotate: 17deg;
+}
+
+
+/*------------------------------Memory Two----------------------------------------------*/
+
+#memTwo{
+    position: absolute;
+    top:500px;
+    right: 100px;
+    width: 550px;
+    height: 350px;
+    background-color: transparent;
+}
+
+#night{
+    position: absolute;
+    right: 50px;
+}
+
+#night2{
+    position: absolute;
+    left: 90px;
+    top: 100px;
+    
+}
+#box2{
+    position: absolute;
+    top: 550px;
+    right:620px;
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+
+/*------------------------------Memory Three----------------------------------------------*/
+
+#memThree{
+    position: absolute;
+    top:830px;
+    right: 830px;
+    width: 550px;
+    height: 350px;
+    background-color: transparent;
+}
+#friday{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+
+#box3{
+    position: absolute;
+    top: 900px;
+    right:300px;
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+
+/*------------------------------Memory Four----------------------------------------------*/
+
+#memFour{
+    position: absolute;
+    top:1180px;
+    right: 340px;
+    width: 800px;
+    height: 250px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#squish{
+    position: absolute;
+    left: 0px;
+}
+#serious{
+    position: absolute;
+    right: 0px;
+}
+
+
+
+#box4{
+    position: absolute;
+    top: 1450px;
+    right:470px;
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+
+/*------------------------------Memory Five----------------------------------------------*/
+#memFive{
+    position: absolute;
+    top:1730px;
+    right: 70px;
+    width: 300px;
+    height: 500px;
+    background-color: transparent;
+    
+}
+
+#mario{
+    position:absolute;
+    top: 0px;
+}
+
+#us{
+    position: absolute;
+    bottom: 0px;
+}
+#box5{
+    position: absolute;
+    top: 1735px;
+    right:410px;
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+/*------------------------------Memory Six----------------------------------------------*/
+#memSix{
+    position: absolute;
+    top:1730px;
+    left: 100px;
+    width: 300px;
+    height: 500px;
+    background-color: transparent;
+    
+}
+#cook{
+    position:absolute;
+    top: 0px;
+}
+
+#pasta{
+    position: absolute;
+    bottom: 0px;
+}
+#box6{
+    position: absolute;
+    top: 1980px;
+    right:790px;
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+/*------------------------------Memory Seven----------------------------------------------*/
+#memSeven{
+    position: absolute;
+    top:2300px;
+    left: 100px;
+    width: 650px;
+    height: 450px;
+    background-color: transparent;
+    
+}
+#roommates{
+    position: absolute;
+    top: 0px;
+}
+#jazz{
+    position: absolute;
+    right: 50px;
+}
+#flower{
+    position: absolute;
+    bottom: 30px;
+    right: 180px;
+    rotate: -10deg;
+}
+#box7{
+    position: absolute;
+    top: 2295px;
+    right:350px;
+    width: 350px;
+    height: 250px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+/*------------------------------Memory Eight----------------------------------------------*/
+#memEight{
+    position: absolute;
+    top:2700px;
+    right: 100px;
+    width: 550px;
+    height: 350px;
+    background-color: transparent;
+    
+}
+#fox{
+    position: absolute;
+    right: 50px;
+}
+#fox2{
+    position: absolute;
+    left: 90px;
+    top: 100px;
+}
+#box8{
+    position: absolute;
+    top: 2750px;
+    right:620px;
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+/*------------------------------Memory Nine----------------------------------------------*/
+#memNine{
+    position: absolute;
+    top:3100px;
+    left: 100px;
+    width: 700px;
+    height: 400px;
+    background-color: transparent;
+    
+}
+
+#beach{
+    position:absolute;
+    rotate: -90deg;
+    top:-30px;
+    left: 27px;
+}
+
+#green{
+    position: absolute;
+    top: -3px;
+    left: 260px;
+}
+#green2{
+    position:absolute;
+    top:200px;
+    left:0px;
+}
+
+#box9{
+    position: absolute;
+    top: 3100px;
+    right:300px;
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#boxes p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 18px;
+    color: rgb(79, 21, 21);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+
+
+#memories img {
+    border: 5px solid white;
+}

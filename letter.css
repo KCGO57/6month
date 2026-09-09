@@ -1,0 +1,36 @@
+#letter{
+    display: none;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container{
+    position: absolute;
+    margin: auto;
+    height: 600px;
+    width: 600px;
+    background-color: rgb(175, 148, 97);
+    left: 150px;
+    border: 5px solid rgb(28, 10, 10);
+    border-radius: 20px;
+}
+#words{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    text-indent: 50px;
+}
+#first{
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}

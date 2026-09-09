@@ -15,6 +15,8 @@ const back = document.getElementById("back");
 const back2 = document.getElementById("back2");
 const back3 = document.getElementById("back3");
 
+//click button screen
+
 start.addEventListener('click', () =>{
     start.style.display = "none";
     page_one.style.display = "flex";
@@ -25,6 +27,7 @@ start.addEventListener('click', () =>{
     back3.style.display = "none";
 });
 
+//letter screen
 one.addEventListener('click', () =>{
     page_one.style.display = "none";
     letter.style.display = "flex";
@@ -61,6 +64,7 @@ back.addEventListener('click', () =>{
     back2.style.display = "none";
     letter.style.display = "none";
     back3.style.display = "none";
+    window.scrollTo(0, 0);
 });
 
 back2.addEventListener('click', () =>{
@@ -72,6 +76,7 @@ back2.addEventListener('click', () =>{
     letter.style.display = "none";
     document.body.style.backgroundImage = "none";
     back3.style.display = "none";
+    window.scrollTo(0, 0);
 });
 
 back3.addEventListener('click', () =>{
@@ -85,4 +90,5 @@ back3.addEventListener('click', () =>{
     back3.style.display = "none";
     memories.style.display = "none";
     document.body.style.overflow = 'hidden';
+    window.scrollTo(0, 0);
 });

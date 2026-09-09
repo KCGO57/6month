@@ -1,0 +1,30 @@
+#page_one{
+    display: none;
+    width: 100%;
+    height: 100vh;
+}
+.buttons button{
+    width: 198px;
+    height: 52px;  
+    border: transparent;
+    background-color: transparent;
+    font-size: 32px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 1.2px black;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    gap: 20px; 
+}
+
+#one:hover{
+    opacity: 0.5;
+}
+#two:hover{
+    opacity: 0.5;
+}

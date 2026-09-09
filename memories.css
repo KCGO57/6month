@@ -352,9 +352,36 @@ h1{
 
 
 
+#memTen{
+    position: absolute;
+    top:3400px;
+    right: 100px;
+    width: 550px;
+    height: 350px;
+    background-color: transparent;
+}
 
+#ele{
+    position: absolute;
+    right: 50px;
+}
 
-
+#ele2{
+    position: absolute;
+    left: 90px;
+    top: 100px;
+}
+#box10{
+    position: absolute;
+    top: 3500px;
+    right:620px;
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
 
 
 

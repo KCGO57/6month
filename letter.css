@@ -16,20 +16,21 @@
     left: 150px;
     border: 5px solid rgb(28, 10, 10);
     border-radius: 20px;
+    padding: 20px;
 }
-#words{
+#words p{
     display: flex;
     justify-content: center;
     align-items: center;
     margin: auto;
-    font-size: 20px;
+    font-size: 16px;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.6;
     text-indent: 50px;
 }
 #first{
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.6;

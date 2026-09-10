@@ -488,6 +488,25 @@ h1{
 }
 
 
+#memThirteen{
+    position: absolute;
+    top:4800px;
+    left: 400px;
+    width: 700px;
+    height: 410px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+
+#nick{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
 
 #boxes p{
     display: flex;

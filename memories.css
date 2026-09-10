@@ -268,7 +268,7 @@ h1{
     top: 2295px;
     right:350px;
     width: 350px;
-    height: 250px;
+    height: 230px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;
@@ -299,7 +299,7 @@ h1{
     top: 2750px;
     right:620px;
     width: 250px;
-    height: 200px;
+    height: 280px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;
@@ -339,8 +339,8 @@ h1{
     position: absolute;
     top: 3100px;
     right:300px;
-    width: 500px;
-    height: 200px;
+    width: 550px;
+    height: 250px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;
@@ -376,7 +376,7 @@ h1{
     top: 3500px;
     right:620px;
     width: 250px;
-    height: 200px;
+    height: 230px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;
@@ -480,7 +480,7 @@ h1{
     top: 4350px;
     left:250px;
     width: 350px;
-    height: 300px;
+    height: 280px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;
@@ -540,7 +540,7 @@ h1{
     top: 5270px;
     right:470px;
     width: 500px;
-    height: 140px;
+    height: 130px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;
@@ -566,10 +566,10 @@ h1{
 
 #box14{
     position: absolute;
-    top: 5520px;
+    top: 5505px;
     right:370px;
     width: 450px;
-    height: 250px;
+    height: 280px;
     background-color: white;
     border-radius: 25px;
     padding: 10px;

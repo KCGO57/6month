@@ -428,6 +428,18 @@ h1{
     left: 410px;
 }
 
+#box11{
+    position: absolute;
+    top: 3850px;
+    right:250px;
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 5px solid rgb(86, 27, 27);
+}
+
 #boxes p{
     display: flex;
     justify-content: center;

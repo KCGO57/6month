@@ -397,6 +397,11 @@ h1{
     margin: auto;
     
 }
+#eat{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
 
 #boxes p{
     display: flex;
